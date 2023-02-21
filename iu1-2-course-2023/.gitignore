@@ -4,3 +4,6 @@
 # Editors
 .vscose/
 .idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
